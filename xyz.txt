@@ -1,7 +1,0 @@
-"welcome" 
-
-
-welcome git
-
-
-git basics
